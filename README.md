@@ -24,8 +24,8 @@ ml-exercises-python/
 ## Cómo correr
 
 ```bash
-git clone https://github.com/nahataen/ml-exercises-python.git
-cd ml-exercises-python
+git clone https://github.com/nahataen/Python-Regresion.git
+cd Python-Regresion
 pip install pandas seaborn scikit-learn
 python "Regresion lineal para calcular grados centigrados a fahrenheit.py"
 ```
